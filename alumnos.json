@@ -1,0 +1,85 @@
+{
+    "alumno1": {
+        "nombre": "Miguel",
+        "apellidos": [
+            "Hinojosa",
+            "Angeles"
+        ],
+        "direccion": {
+            "calle": "su calle",
+            "numero": 2
+        },
+        "telefono": "21576468",
+        "grado": 3,
+        "materias": [
+            {
+                "materia1": {
+                    "nombre": "Español",
+                    "profesor": "Juan",
+                    "calificacion": 9
+                }
+            },
+                {
+                "materia2": {
+                    "nombre": "Mate",
+                    "profesor": "Edgar",
+                    "calificacion": 10
+                }
+            }
+        ]
+    },
+    "alumno2": {
+        "nombre": "Alain",
+        "apellidos": [
+            "Lavadores",
+            "García"
+        ],
+        "direccion": {
+            "calle": "su calle",
+            "numero": 4
+        },
+        "telefono": "3216547",
+        "grado": 6,
+        "materias": [
+            {
+                "materia1": {
+                    "nombre": "Español",
+                    "profesor": "Juan",
+                    "calificacion": 10
+                },
+                "materia2": {
+                    "nombre": "Mate",
+                    "profesor": "Edgar",
+                    "calificacion": 9
+                }
+            }
+        ]
+    },
+    "alumno3": {
+        "nombre": "Carlos",
+        "apellidos": [
+            "Montes",
+            "De Oca"
+        ],
+        "direccion": {
+            "calle": "su calle",
+            "numero": 16
+        },
+        "telefono": "65498745",
+        "grado": 4,
+        "materias": [
+            {
+                "materia1": {
+                    "nombre": "Biología",
+                    "profesor": "Maria",
+                    "calificacion": 10
+                },
+                "materia2":{
+                    "nombre":"Física",
+                    "profesor":"Liliana",
+                    "calificacion":10
+                }
+            }
+        ]
+    }
+}

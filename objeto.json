@@ -1,0 +1,11 @@
+{
+    "nombre":"Edgardo",
+    "edad":29,
+    "direccion":{
+        "calle":"su casa",
+        "numero":12
+    },
+    "ciudades Visitadas":["CDMX","NL","SON"],
+    "vivo":true,
+    "celular":null 
+}

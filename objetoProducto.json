@@ -1,0 +1,14 @@
+{
+    "producto1": {
+        "precio": 50,
+        "descripcion": "cafe de olla",
+        "sku": "L12345652",
+        "gramaje": 500,
+        "medidas": {
+            "alto": 15,
+            "ancho": 15
+        },
+        "cantidadAlmacen": 50,
+        "descuento": 2
+    }
+}
